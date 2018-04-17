@@ -1,0 +1,142 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+T__5=6
+T__6=7
+T__7=8
+T__8=9
+T__9=10
+T__10=11
+T__11=12
+T__12=13
+T__13=14
+T__14=15
+T__15=16
+T__16=17
+T__17=18
+T__18=19
+T__19=20
+T__20=21
+MultiLineMacro=22
+Directive=23
+Else=24
+Enum=25
+Float=26
+For=27
+If=28
+Inline=29
+Int=30
+Long=31
+New=32
+Operator=33
+Return=34
+Short=35
+Signed=36
+Static=37
+Static_assert=38
+Static_cast=39
+Switch=40
+Unsigned=41
+Void=42
+Wchar=43
+Plus=44
+Minus=45
+Star=46
+Div=47
+Mod=48
+Caret=49
+And=50
+Or=51
+Tilde=52
+Not=53
+Assign=54
+Less=55
+Greater=56
+MinusAssign=57
+StarAssign=58
+DivAssign=59
+ModAssign=60
+XorAssign=61
+AndAssign=62
+OrAssign=63
+LeftShift=64
+LeftShiftAssign=65
+Equal=66
+Identifier=67
+Integerliteral=68
+Decimalliteral=69
+Octalliteral=70
+Hexadecimalliteral=71
+Binaryliteral=72
+Integersuffix=73
+Characterliteral=74
+Floatingliteral=75
+Stringliteral=76
+Whitespace=77
+Newline=78
+'#include <iostream>'=1
+'('=2
+')'=3
+';'=4
+'['=5
+']'=6
+','=7
+'&&'=8
+'...'=9
+'{'=10
+'}'=11
+':'=12
+'+='=13
+'!='=14
+'<='=15
+'>='=16
+'||'=17
+'++'=18
+'--'=19
+'->*'=20
+'->'=21
+'else'=24
+'enum '=25
+'float '=26
+'for '=27
+'if '=28
+'inline '=29
+'int '=30
+'long '=31
+'new '=32
+'operator '=33
+'return '=34
+'short '=35
+'signed '=36
+'static '=37
+'static_assert '=38
+'static_cast '=39
+'switch'=40
+'unsigned '=41
+'void'=42
+'wchar_t'=43
+'+'=44
+'-'=45
+'*'=46
+'/'=47
+'%'=48
+'^'=49
+'&'=50
+'|'=51
+'~'=52
+'!'=53
+'='=54
+'<'=55
+'>'=56
+'-='=57
+'*='=58
+'/='=59
+'%='=60
+'^='=61
+'&='=62
+'|='=63
+'<<'=64
+'<<='=65
+'=='=66
